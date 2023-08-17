@@ -1,0 +1,15 @@
+.image__preview {
+  margin-top: 20px;
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+  display: none;
+}
+.input__error {
+  font-size: 12px !important;
+  margin-top: 5px;
+}
+#category__preview {
+  width: 40px;
+  height: 40px;
+}
